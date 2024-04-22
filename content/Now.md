@@ -22,6 +22,9 @@ Includes but not limited to climate change, AI S-risk, and of course the usual s
 
 Currently, I am working on this website. I really want to have the outside it reflect what it feels like inside my head. 
 
-I am also starting to take up freelance IT projects, after my earlier content writing stuff kinda became the writing on the wall after chatGPT. 
+I am also starting to take up freelance IT projects, after my earlier content writing stuff kinda became the writing on the wall after chatGPT.  
 
 
+
+## Factorio
+I am currently enjoying a nostalgia fueled binge into a game I used to play a lot in my school days, factorio. I think it's one of the best games ever made, the development team behind it is fanatically dedicated to their work, treating it better than many software developers do their enterprise apps. 
