@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Garden
 ---
 if you're seeing this already, congratulations, I'd like to know what you think of it. Some stuff ain't final, I want feedback, and I need to fill it up some more and get it fleshed out. 
 
