@@ -7,3 +7,11 @@ https://www.youtube.com/@rudrakabir
 
 [(2) Rudra Kabir | LinkedIn](https://www.linkedin.com/in/rudrakabir/) because my mumma told me
 
+[Soundcloud](https://soundcloud.com/rudra-kabir)
+
+
+# Code
+
+URL saver for Obsidian : [rudrakabir/Link-Saver-for-obsidian (github.com)](https://github.com/rudrakabir/Link-Saver-for-obsidian) extension to save the current link in a new note in Obsidian
+
+PDF metadata remover for mac: [rudrakabir/PDF-metadata-remover (github.com)](https://github.com/rudrakabir/PDF-metadata-remover)
