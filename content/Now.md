@@ -1,16 +1,19 @@
-**
-****Last updated Apr 22, 2024**
+**Last updated Apr 22, 2024**
 
-inspired by [about nownownow.com](https://nownownow.com/about) , but a different twist. What am I thinking about right now? 
+inspired by [sive.rs](https://nownownow.com/about) , but a different twist. What am I thinking about right now? 
 
 
 ### What music am I listening to right now?
-https://www.last.fm/user/rudrakabir is basically a direct conduit into what the inside of my head feels like which is kinda wack if you ask me.
+[last.fm](https://www.last.fm/user/rudrakabir) is basically a direct conduit into what the inside of my head feels like which is kinda wack if you ask me.
 
 ### TV? Movies?
 See something here you want me to review? ask me!
-[rudra kabir's profile - Trakt](https://trakt.tv/users/rudrakabir)
+[Trakt](https://trakt.tv/users/rudrakabir)
 
+## Books
+I dislike goodreads, so nothing there sorry. Can automate collection of Movies and Music much easier than manually adding, so if I'm manually adding, then I'm doing it on a platform I can control.
+
+I am reading [[The Magic of Reality - Richard Dawkins]] at the moment, and it is a fascinating book. I just finished [[The Cosmic Serpent - Jeremy Narby]], and it was a fantastic ride. I don't understand how everyone didn't immediately jump into the amazon after reading that one.
 
 ### X-risk
 I am really obsessing over the current issues around the existential risks that are facing humanity right now. We have never been more able to wipe ourselves off the face off the planet, and that this can now be done _on accident_ scares me. 

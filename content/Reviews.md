@@ -3,9 +3,15 @@
 [[Ricky Stanicky]]
 
 ## Books
+
+[[The Cosmic Serpent - Jeremy Narby]]
+[[The Magic of Reality - Richard Dawkins]]
+
 ## TV
 
 [[30 Rock]]
+[[Scrubs]]
+
 
 
 
