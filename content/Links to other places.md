@@ -9,7 +9,7 @@ https://www.youtube.com/@rudrakabir
 
 [Soundcloud](https://soundcloud.com/rudra-kabir)
 
-
+[Subscribe to my reading list on telegram]()
 # Code
 
 URL saver for Obsidian : [rudrakabir/Link-Saver-for-obsidian (github.com)](https://github.com/rudrakabir/Link-Saver-for-obsidian) extension to save the current link in a new note in Obsidian
