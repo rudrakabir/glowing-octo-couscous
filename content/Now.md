@@ -7,7 +7,7 @@ inspired by [sive.rs](https://nownownow.com/about) , but a different twist. What
 [last.fm](https://www.last.fm/user/rudrakabir) is basically a direct conduit into what the inside of my head feels like which is kinda wack if you ask me.
 
 ### TV? Movies?
-See something here you want me to review? ask me!
+
 [Trakt](https://trakt.tv/users/rudrakabir)
 
 ## Books
