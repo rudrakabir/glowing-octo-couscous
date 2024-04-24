@@ -11,5 +11,4 @@ in the vein of Do 100 things.
 
 [[introspect]] 
 [[what i learnt from instagram's 30day song challenge]]
-
-
+[[Document the algorithm]]
