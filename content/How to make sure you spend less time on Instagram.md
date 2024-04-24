@@ -20,3 +20,24 @@ I still wish instagram had a post only + messages mode.
 
 Exact Shortcuts, in case you want to replicate
 
+1. Create a new focus, I called mine Instatimer
+2. Make 4 automations
+	1. When "App"(check instagram) is opened, turn focus on![[IMG_0742.jpeg]]
+	2. when "App" is opened, turn focus off![[IMG_0741.jpeg]]
+	3. When focus turned on, wait X time(this is modifiable), and then turn focus off![[IMG_0744.jpeg]]
+![[IMG_0745.jpeg]]
+	4. When focus is turned off, Go to Home screen. 
+	![[IMG_0743.jpeg]]
+
+3. Make Sure all of them are set to run immediately, and not notify you(the notifications will get cluttered fast)
+
+here is what happens
+
+When you Open instagram, and keep scrolling past the 65 second deadline, the automation will turn the focus off, which will trigger a Go to homescreen, hopefully giving you a much needed space to reset your intention.
+
+
+
+
+
+
+
