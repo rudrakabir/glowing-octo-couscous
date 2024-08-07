@@ -11,10 +11,17 @@ On to the tutorial!
 
 Step 1. Get a Website. I used Namecheap to register the domain itself, and am currently learning how to use Astro + Netlify to build and host the site. rudrakabir.com
 
-Step 2. Get quartz on a subdomain in the website and get it synced up with github, and your obsidian vault. 
+Step 2. Get quartz on a subdomain in the website and get it synced up with GitHub, and your obsidian vault. 
 
-Step 3. Everytime you make changes in Obsdian, all i need to do is navigate to the directory that my quartz lives in, 
+Step 3. Now, whenever I am done writing a new thing, and want to publish, all I need to do is
 
-Sources:
-[Welcome to Quartz 4 (jzhao.xyz)](https://quartz.jzhao.xyz/)
+```
+cd ~/Directory/to/Quartz
+npx quartz sync
+```
+It will automatically handle it from there. This makes it really easy to do. 
+
+I made this even easier, by using Automator.app to create an applet that runs it on command, so I don't have to type it out every time(but let's be honest, I was scrolling through my shell history anyway)
+
+
 
