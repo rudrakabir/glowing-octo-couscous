@@ -21,7 +21,18 @@ npx quartz sync
 ```
 It will automatically handle it from there. This makes it really easy to do. 
 
-I made this even easier, by using Automator.app to create an applet that runs it on command, so I don't have to type it out every time(but let's be honest, I was scrolling through my shell history anyway)
+Step 4. I made this even easier, by using Automator.app to create an applet that runs it on command, so I don't have to type it out every time(but let's be honest, I was scrolling through my shell history anyway)
+To do that, add an applescript action to a new autoamtor app with the following code
+
+```
+source ~/.zshrc
+cd /Users/rudrakabir/Desktop/Website/quartz
+npx quartz sync
+```
+
+the source ~/.zshrc is so that Automator can use the same environment as your terminal, which is needed otherwise you have to manually define a path.
+
+Now, all i need to do when I want to publish is finish writing in Obsidian, and hit the publish icon on my desktop, and Voila! time to go do just that. 
 
 
 
