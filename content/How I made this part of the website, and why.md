@@ -35,4 +35,17 @@ the source ~/.zshrc is so that Automator can use the same environment as your te
 Now, all i need to do when I want to publish is finish writing in Obsidian, and hit the publish icon on my desktop, and Voila! time to go do just that. 
 
 
+To Update:
+
+```
+npx quartz update
+```
+if node is out of date,
+
+```
+npm update
+nvm install $required_version
+nvm use $required_version
+```
+
 
