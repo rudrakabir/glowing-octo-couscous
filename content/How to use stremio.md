@@ -4,5 +4,5 @@ how to use stremio?
 
 1. [Stremio - Freedom to Stream](https://www.stremio.com/) download it from here
 2. Once installed, make a profile, let it sync
-3. [Torrentio - Stremio Addon](https://torrentio.strem.fun/configure) download the torrent io addon from here
+3. [Torrentio - Stremio Addon](https://torrentio.strem.fun/configure) download the torrent io addon from here, install it in stremio
 4. Profit! You can now watch most things 

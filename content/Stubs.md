@@ -6,9 +6,9 @@ in the vein of Do 100 things.
 [[Tenets]]
 
 
-[[Ahmedabad]]
+[[Building in Ahmedabad]]
 
 
 [[introspect]] 
-[[what i learnt from instagram's 30day song challenge]]
+[[What i learnt from instagram's 30day song challenge]]
 [[Document the algorithm]]

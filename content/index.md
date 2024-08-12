@@ -9,6 +9,8 @@ I believe the human mind is extremely flexible, and we can do anything we want. 
 
 Think of it as a lab, or a workshop, where stuff is still happening, and the outcome is still...undetermined.
 
+I also want to explore my own identity and have some fun, so some of that is here too. Like [[The Fire Guy]]
+
 
 
 Feel free to take a look around!
