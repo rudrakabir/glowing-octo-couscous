@@ -7,6 +7,7 @@ This section is inspired by the working-in-public philosophy, that celebrates th
 The beauty of it is that it integrates with my favourite program in the world, Obsidian, where I already do most of my writing, so posting and editing content is damn damn easy. Apart from the domain registration charges(which are optional, if you don't want your own domain), it is also hosted online completely free.
 
 On to the tutorial!
+
 (A lot of the information here is taken from various sources online, I am collating it here for my easy reference)
 
 Step 1. Get a Website. I used Namecheap to register the domain itself, and am currently learning how to use Astro + Netlify to build and host the site. rudrakabir.com

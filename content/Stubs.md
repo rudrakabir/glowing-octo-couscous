@@ -6,7 +6,7 @@ in the vein of Do 100 things.
 [[Tenets]]
 
 
-[[ahmedabad]]
+[[Ahmedabad]]
 
 
 [[introspect]] 

@@ -1,13 +1,14 @@
+In no particular order, some people that have inspired me.
+
 
 regajha
 
-regajha.com
 
-@visakanv
+@visakanv on twitter
 
-nicolevanderhoeven
+nicolevanderhoeven's website
 
-jzhao
+jzhao, creator of obsidian
 
-leonardo da vinci
+Leonardo da vinci, the uiltimate creator
 \
