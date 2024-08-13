@@ -55,3 +55,4 @@ The end result should be a frictionless writing environment that is tailored for
 Welcome to notes.rudrakabir.com!
 
 
+I added google analytics as well, by taking the code snippet they give you and adding it to the code snippets in netlify's build settings before the \</head> tag
