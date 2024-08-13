@@ -50,3 +50,8 @@ nvm use $required_version
 ```
 
 
+The end result should be a frictionless writing environment that is tailored foremost for the organisation and management of useful information, and yet takes 5 seconds to publish, and just a few minutes to propagate on an interface that is clean, and customisable. 
+
+Welcome to notes.rudrakabir.com!
+
+

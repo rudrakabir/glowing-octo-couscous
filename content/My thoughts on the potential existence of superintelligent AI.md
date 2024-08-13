@@ -15,7 +15,7 @@ Now to come to the superintelligent part of things. I see some obvious ways that
 - better RAM, to hold more things at once
 - better computational ability
 - consistency over time
-all these are simple things software wise, but would be a killer boost to something that is already human intelligence - enough for me to classify as superintellignet. 
+all these are simple things software wise, but would be a killer boost to something that is already human intelligence - enough for me to classify as super intelligen. 
 
-not to mention that it has a limitless length and breadth and depth, and it propagates easily, and I think the case for the possibility of the existence of superintelligent ai looks very strong. 
+not to mention that it has a limitless length and breadth and depth, and it propagates easily, and I think the case for the possibility of the existence of superintelligent ai looks very strong, damn near inevitable.
 

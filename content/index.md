@@ -7,11 +7,12 @@ Hi! I am Rudra Kabir, and this is my shady cozy corner of the internet. It's mai
 
 I believe the human mind is extremely flexible, and we can do anything we want. This is where I document my experiments with trying to prove that. 
 
-Think of it as a lab, or a workshop, where stuff is still happening, and the outcome is still...undetermined.
+Think of it as a lab, or a workshop, where stuff is still happening, and the outcome is still...undetermined. if you want to learn how to make your own notes page to write and experiment with as you see fit, see [[How I made this part of the website, and why]]
+
 
 I also want to explore my own identity and have some fun, so some of that is here too. Like [[The Fire Guy]]
 
 
 
-Feel free to take a look around!
+Feel free to take a look around, and contact me if you have any questions. 
 

@@ -20,3 +20,5 @@ The lil spinning raccoon. I saw it once or twice, and I remember thinking, "Ah, 
 
 It's more addictive than any drug. 
 
+## Anecdote 3
+Cheen Tapak Dum Dum. I wonder how this thing escaped containment, but it's all over the place. 
