@@ -12,6 +12,8 @@ Think of it as a lab, or a workshop, where stuff is still happening, and the out
 
 I also want to explore my own identity and have some fun, so some of that is here too. Like [[The Fire Guy]]
 
+You might want to use [[Guides]] or [[Links to other places]] as jumping off points, I'm still creating more. Right now this space is in the spam seeds and saplings everywhere and see what grows part of the gardening. The pruning and planning and weeding and making beauty comes later.
+
 
 
 Feel free to take a look around, and contact me if you have any questions. 
