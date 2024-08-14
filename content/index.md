@@ -3,7 +3,7 @@ title: Lab
 ---
 if you're seeing this already, congratulations, I'd like to know what you think of it. Some stuff ain't final, I want feedback, and I need to fill it up some more and get it fleshed out. 
 
-Hi! I am Rudra Kabir, and this is my shady cozy corner of the internet. It's mainly a way to collect all the various stuff I've scattered in my wake all over the internet so far, and a place to keep my stuff intentionally moving forward. 
+Hi! I am Rudra Kabir, and this is my shady cozy corner of the internet. It's mainly a way to collect all the various stuff I've scattered in my wake all over the internet so far, and a place to keep my stuff intentionally moving forward. [[FAQ]]
 
 I believe the human mind is extremely flexible, and we can do anything we want. This is where I document my experiments with trying to prove that. 
 
@@ -14,7 +14,7 @@ I also want to explore my own identity and have some fun, so some of that is her
 
 You might want to use [[Guides]] or [[Links to other places]] as jumping off points, I'm still creating more. Right now this space is in the spam seeds and saplings everywhere and see what grows part of the gardening. The pruning and planning and weeding and making beauty comes later.
 
+This might mean that you will be reading something and two lines later it ends...abruptly. It's a WIP. 
 
-
-Feel free to take a look around, and contact me if you have any questions. 
+Feel free to take a look around, and [[Links to other places|contact me]] if you have any questions. 
 

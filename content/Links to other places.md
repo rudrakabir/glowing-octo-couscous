@@ -3,9 +3,9 @@ I started writing a blog at [The Third Place | rudrakabir | Substack](https://ru
 
 https://www.youtube.com/@rudrakabir
 
-[Rudra Kabir (@rudrakabir) • Instagram photos and videos](https://www.instagram.com/rudrakabir/)
+[Instagram](https://www.instagram.com/rudrakabir/)
 
-[(2) Rudra Kabir | LinkedIn](https://www.linkedin.com/in/rudrakabir/) because my mumma told me
+[LinkedIn](https://www.linkedin.com/in/rudrakabir/) because my mumma told me
 
 [Soundcloud](https://soundcloud.com/rudra-kabir)
 
@@ -15,3 +15,4 @@ https://www.youtube.com/@rudrakabir
 URL saver for Obsidian : [rudrakabir/Link-Saver-for-obsidian (github.com)](https://github.com/rudrakabir/Link-Saver-for-obsidian) extension to save the current link in a new note in Obsidian
 
 PDF metadata remover for mac: [rudrakabir/PDF-metadata-remover (github.com)](https://github.com/rudrakabir/PDF-metadata-remover)
+

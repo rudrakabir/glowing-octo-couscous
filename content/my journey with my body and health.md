@@ -1,1 +1,5 @@
-body as a vehicle for the mind
+As a young kid, I was more often than not found with my nose in a book than playing outside. I loved reading, and after my initial childhood, was ambivalent about moving. I enjoyed skating and wheel based movement methods, but walking or running was not my scene. I was a naturally skinny kid right up until puberty though, so it was okay. 
+
+After a ligament tear in my teenage years and a trip to the United States, I got fat. I was okay with this. Until then, I was not very physically active, mostly preferred to bunk sports period(of which we only had one a week - i think i would have participated more if it wasn't a choice between library and sports). I wasn't too fond of contact sports, didn't like cricket, and preferred to skateboard and skate instead. None of which built much muscle. 
+
+Again, this is a grown up me writing this down with his lens of then. At the time, this wasn't even something I was aware of. I was often praised for being smart, funny, intelligent, knowledgeable, stuff like that. I took the brains over brawn mentality to heart, and sort of glorified the oh yes of course I'm a nerd, I can't be built also. 
