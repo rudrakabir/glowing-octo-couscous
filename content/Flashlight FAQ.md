@@ -1,5 +1,5 @@
 
-You'd carry an umbrella if it was going to rain, right? Being prepared is good. it gets dark every single day. And you often need more light in underlit places. I always carry a flashlight around with me for this reason.
+You'd carry an umbrella if it was going to rain, right? [[Being prepared is good]]. it gets dark every single day. And you often need more light in underlit places. I always carry a flashlight around with me for this reason.
 
 My flashlight of choice is the Emisar D4v2, with SST-20 4000K LEDs.
 
@@ -46,6 +46,6 @@ To get to these modes, double click and then hold from off.(that's click-click-h
 **What QoL features are you talking about?**
 Some I really like are
 - **Magnet in the tailcap** - The magnet helps a lot in situations. Can clip it to any metal surface and it will hold easily. Damn convenient. 
-- **Aux LEDs** - apart from the main emitters, there are 8 small leds around the outer ring of the light. These serve to indicate the current battery level, or to locate the light in the dark(that's right, the flashlight has lights so you can find it to make more light)
+- **Aux LEDs** - apart from the main emitters, there are 8 small leds around the outer ring of the light. These serve to indicate the current battery level, or to locate the light in the dark(that's right, the flashlight has lights so you can find it to make more light)![[DE30A4EA-DF86-4019-BC57-607AEFA505F1_4_5005_c.jpeg]]
 - **Accessible Software** - the brains of the flashlight have exposed headers, so you can connect the PCB to your computer if you have the right tools, and update or upgrade the software as you wish.
 
