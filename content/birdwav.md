@@ -2,7 +2,8 @@ yesterday(1 sep24) i was in conversation with my friend harsh and we were discus
 
 I am attempting to bring that to life, translating the birds flight patterns into sound. This is a documentation of that attempt.
 
-I am trying to use opencv to detect the birds flight patterns and duration across frames of a video. i am using this video as a sample. https://www.youtube.com/watch?v=YCNwIrAISek
+I am trying to use opencv to detect the birds flight patterns and duration across frames of a video. i am using this video as a sample. https://www.youtube.com/watch?v=YCNwIrAISek (thank you [[A collection of Useful tools#yt-dlp|yt-dlp]])
+
 
 In my first few attempts, i was getting very short tones due to only producing a millisecond of sound per frame, leading to a short harsh buzz sounding like this 
 
@@ -20,4 +21,5 @@ kinda harsh and death metally eh
 
 
 
-now i
+now i am trying to further the audio pipeline
+some random attempts as the sound evolves![[bird_flight_synth.wav]]
