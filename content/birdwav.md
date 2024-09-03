@@ -10,7 +10,7 @@ In my first few attempts, i was getting very short tones due to only producing a
 
 ![[bird_flight_synth4.wav.wav]]
 
-I then removed the association of the duration with the y-cooridnate, and based the duration as a multiple of the video's frame rate.
+I then removed the association of the duration with the coordinate, and based the duration as a multiple of the video's frame rate.
 
 then i got this
 the time of audio per frame is now the same time as the video frame time
@@ -23,3 +23,6 @@ kinda harsh and death metally eh
 
 now i am trying to further the audio pipeline
 some random attempts as the sound evolves![[bird_flight_synth.wav]]
+The problem is that the bird recognition code is not dynamic enough and yet too sensitive. Trying to figure out how to solve that is not easy. 
+
+Difficulty Level:**HIGH**
