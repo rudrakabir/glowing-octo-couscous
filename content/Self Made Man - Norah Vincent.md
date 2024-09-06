@@ -6,9 +6,9 @@ I think my current beliefs on it is somewhat like, even before the reading of th
 3. However I do also believe that there are differences between the sexes and we should treat people accordingly to that. (To use age as an analogy, we talk in baby talk to babies, or talk louder to old people. we still acknowledge both as humans, but recognise that they have different needs when it comes to communication, and act accordingly. I cannot pinpoint the exact difference so easily with gender, but the point is proportionate)
 4. I find the current trend of society as trying to see past the differences between all of us, and instead of customising solutions to fit everyone instead of just the Man, are trying to create a template for everyone to fit into instead. 
 
-This book was recommended to me somewhere on reddit, and it is supposed to be about a journalist, who spent an year living as a Man, and how that experience shaped her perception of manhood and masculinity. Interseting. 
+This book was recommended to me somewhere on reddit, and it is supposed to be about a journalist, who spent an year living as a Man, and how that experience shaped her perception of manhood and masculinity. Interesting. 
 
-I am a straight man, and I love talking about gender, sex, identity and relationships, especially with people who have definitions that conflict with traditional norms.  to this date I feel like the most open and honest conversation I've had about these things were with a gay man and a trans man, both of whom had very interesting things to say about what they consider manly and masculine. I think that conversation is what prompted the google where I reddited this book. 
+I am a straight man, and I love talking about gender, sex, identity and relationships, especially with people who have definitions that conflict with traditional norms.  to this date I feel like the most open and honest conversation I've had about these things were with a gay man and a trans man, both of whom had very interesting things to say about what they consider manly and masculine. In my head, that is because if you fit the more or less average definition of man, there is not much cause to think about or question the depths and bounds of your masculinity. Alternative expressions of it do tend to have that effect, which made me curious about this. That conversation is what prompted the google where I reddited this book. 
 
 Now I will actually start reading it, with the intention set in my head. 
 
@@ -18,7 +18,7 @@ It all starts with the name. When she starts thinking about how to start this pr
 
 It's interesting, the author says she first dressed as an old man, for halloween, when she was seven years old. So odd. It seems true of many artists, that their art seems to be echoes of their childhood. Her Mom was also an actor, who successfully played the part of (a woman playing a man)
 
-It's 1:56 Am on a friday morning and its raining outsside and Im really enjoying reading this book actually. 
+It's 1:56 Am on a Friday morning and its raining outside and Im really enjoying reading this book actually. 
 
 
 “Lacan wrote that love is giving something you don’t possess to someone who doesn’t exist”
@@ -27,3 +27,6 @@ man i got to check this lacan guy out
 
 “A good point. This came up often in the group—the idea that anger was not an unproductive emotion if followed to its source. The way these guys told it, anger was the one emotion they had in abundance, the one emotion that the world had allowed them to have in abundance, so by implication it contained everything else—sorrow, pain, need, shame. You name it. It was a feeling they knew well, and it was the place where most of their other feelings hid. Nobody here was going to judge you for letting it speak.”
 
+It's interesting, how riveting this book actually was. I started reading it thursday night, and i was done by 3-4 am friday morning. Right book, right time. The author really did try very hard to get into the male experience, I feel, and was rather charitable in her views. Her heart seems to be in the right place. 
+
+Norah, the author, masquerades as Ned, a late 20s man, in order to infiltrate and write about
