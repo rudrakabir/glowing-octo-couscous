@@ -2,3 +2,4 @@ I want to live take certain thoughts or comments when I read books, this is wher
 
 [[The Cosmic Serpent - Jeremy Narby]]
 [[Self Made Man - Norah Vincent]]
+[[Zen in the Art of Writing - Ray Bradbury]]
