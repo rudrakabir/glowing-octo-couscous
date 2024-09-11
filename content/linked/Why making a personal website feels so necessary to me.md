@@ -11,3 +11,6 @@ So I am writing these live, in my obsidian, without any editing, constant stream
 
 I have been a big follower of the building in public movement, because the high production qualoity of today's online output fazes me, and I feel damn inspired by people who have the courage to post works in progress in public. 
 
+
+[[Building rudrakabir.com]]
+
