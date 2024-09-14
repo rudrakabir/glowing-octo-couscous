@@ -1,0 +1,3 @@
+Often when talking about writing, a recommended tip is to have a specific audience in mind. For some of this, the audience I have is like a Memento version of me that doesn't remember anything, so to bring him up to speed on latest me, here is the guide.
+
+Obsidian is like my digital home now. If it's not on Obisidian, it doesn't exist. This is because I am now coming up on 2 decades of using computers. It's not possible to remember all the apps, files, different ways of organising infromation, where information is stored in my head anymore. I have to get it down to paper or it will just vanish into the ether.

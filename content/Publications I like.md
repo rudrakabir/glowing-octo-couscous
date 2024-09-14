@@ -1,0 +1,2 @@
+SlateStarCodex
+hackaday

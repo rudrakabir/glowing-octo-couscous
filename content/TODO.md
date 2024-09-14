@@ -5,3 +5,6 @@ This is for me to remember what stuff I need to do next on this notes section
 - figure out how to get some sort of recently created and recently updated files going 
 - make some good jumping off points
 - start weeding
+	- tagging things\
+	- joining things
+	- removing things possibly
