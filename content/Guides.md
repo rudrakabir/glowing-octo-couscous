@@ -1,3 +1,8 @@
+---
+aliases:
+  - Tutorials
+---
+
 Guides are one of my favourite categories of writing on the internet. The sheer amount of knowledge that I have learnt from guides online is insane. This is my attempt to start giving back.
 
 
@@ -9,4 +14,7 @@ Guides are one of my favourite categories of writing on the internet. The sheer 
 [[How I made this part of the website, and why]]
 
 [[Haircare Bible]]
+
+[[Integrating Trakt.tv Watch History into a Jekyll Site]]
+
 

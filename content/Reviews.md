@@ -20,8 +20,6 @@ I am aiming to review every single thing I watch from now on. I want to be inten
 ## Books
 See [[Books]] for stubs
 
-
-
 ### Music
 
 I think music takes way more than one listen to truly appreciate the album, so I won't be reviewing every album I listen to, or even try, but I hope to have my favourites here over time. 
