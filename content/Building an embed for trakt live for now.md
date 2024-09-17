@@ -1,3 +1,4 @@
+#scratch
 I like documenting things, and automating documenting things is even better. For this reason, I have set-up trakt.tv and last.fm to track(scrobble) my movies/TV and Music listening habits respectively. Already, one can access my profile there on the website. 
 
 But I wanted a live view on my website as well, a-la MySpace. Honestly, making it public seems like an oddly intimate thing to do, but it's a fun technical exercise. Trakt offers a prebuilt widget that offers this functionality, but to get it you must subscribe to their VIP feature, which costs $60 a year, not worth it for me for this one feature.
