@@ -1,3 +1,0 @@
-#List
-SlateStarCodex
-hackaday
