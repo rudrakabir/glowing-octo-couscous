@@ -9,7 +9,7 @@ I believe the human mind is extremely flexible, and we can do anything we want. 
 
 Think of it as a lab, or a workshop, where stuff is still happening, and the outcome is still...undetermined. if you want to learn how to make your own notes page to write and experiment with as you see fit, see [[How I made this part of the website, and why]]. You may also want to check out [[Guides]] for other Guides.
 
-Some whimsical jumping points would be [[Lists]] or [[Books]] or [[Reviews]]
+Some whimsical jumping points would be [[Lists]] or [[Books]] or [[Reviews]] 
 
 
 
@@ -18,8 +18,13 @@ I also want to explore my own identity and have some fun, so some of that is her
 
 You might want to use [[Guides]] or [[Links to other places]] or [[Recent Activity]] as jumping off points, I'm still creating more. Right now this space is in the spam seeds and saplings everywhere and see what grows part of the gardening. The pruning and planning and weeding and making beauty comes later. 
 
-This might mean that you will be reading something and two lines later it ends...abruptly. It's a WIP. 
 
+Other things I'm up to
+- I'm exploring content creation @Kabirontap on Instagram. 
+- I host rationality/EA/Slate Star Codex Reading Groups in Ahmedabad
+
+
+I'm passionate about third spaces, communities, dating discourse, building things, electronics, good audio, big engines, and small kitchen tools. 
 
 
 Feel free to take a look around, and [[Links to other places|contact me]] if you have any questions. 
