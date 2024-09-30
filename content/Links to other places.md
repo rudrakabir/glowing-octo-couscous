@@ -16,3 +16,12 @@ URL saver for Obsidian : [rudrakabir/Link-Saver-for-obsidian (github.com)](https
 
 PDF metadata remover for mac: [rudrakabir/PDF-metadata-remover (github.com)](https://github.com/rudrakabir/PDF-metadata-remover)
 
+
+# Instagram
+@kabirontap on instagram is me testing out in 
+@yer_a_meme_harry is my meme page for fun
+
+# Written
+
+Categorizing the Risks of AI: A guide for policy makers - AI Safety Hackathon, https://itch.io/jam/ai-gov
+

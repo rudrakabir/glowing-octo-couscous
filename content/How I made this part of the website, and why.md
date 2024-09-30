@@ -6,8 +6,11 @@ This section is inspired by the working-in-public philosophy, that celebrates th
 
 The beauty of it is that it integrates with my favourite program in the world, Obsidian, where I already do most of my writing, so posting and editing content is damn damn easy. Apart from the domain registration charges(which are optional, if you don't want your own domain), it is also hosted online completely free.
 
+On a technical note also it helps me, because it's much easier for me to continuously make notes in my Obsidian, which I already use, and then selectively upload good stuff to my website. I'd upload much less if I had to decide where everything goes beforehand.
+
 On to the tutorial!
 
+# How to Make your own Digital Garden
 (A lot of the information here is taken from various sources online, I am collating it here for my easy reference)
 
 Step 1. Get a Website. I used Namecheap to register the domain itself, and am currently learning how to use Astro + Netlify to build and host the site. rudrakabir.com
@@ -28,6 +31,7 @@ To do that, add an applescript action to a new autoamtor app with the following 
 ```
 source ~/.zshrc
 cd /Users/rudrakabir/Desktop/Website/quartz
+nvm use 20
 npx quartz sync
 ```
 

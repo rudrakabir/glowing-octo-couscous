@@ -1,0 +1,1 @@
+These serve as examples of writing samples for places I need to demonstrate writing.

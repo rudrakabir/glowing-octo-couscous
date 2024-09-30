@@ -9,7 +9,14 @@ But what to/where to/how to has given me severe analysis paralysis, so while I f
 
 So I am writing these live, in my obsidian, without any editing, constant stream of thought kinda stuff. The aim is consistency first, and quality will come. And this is where that stuff lives. 
 
-I have been a big follower of the building in public movement, because the high production qualoity of today's online output fazes me, and I feel damn inspired by people who have the courage to post works in progress in public. 
+I have been a big follower of the building in public movement, because the high production quality of today's online output fazes me, and I feel damn inspired by people who have the courage to post works in progress in public. 
+
+I also hate the addiction I have to social media. My information diet used to be clean and lean. I had TV taken away at an early age, and my books were well curated. 
+
+
+
+
+
 
 
 [[Building rudrakabir.com]]
