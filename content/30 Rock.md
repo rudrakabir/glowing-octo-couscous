@@ -1,3 +1,6 @@
+---
+draft : false
+---
 I have no problem with the actual technical aspect of writing, as in putting my thoughts into words. It's always been frictionless to me. I write how I speak, and if I have something to say, I can write it down easily. The problem is more what to say.
 
 Because all the writing I have read feels so impactful, I feel like I should be writing about my values or these big overarching thoughts I have sporadically, but somehow that thing eludes me, so this is the best I can do. 

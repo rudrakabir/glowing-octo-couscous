@@ -16,14 +16,14 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "notes.rudrakabir.com",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "Out"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        header: "Bebas Neue",
+        body: "Red Hat Display",
         code: "IBM Plex Mono",
       },
       colors: {
