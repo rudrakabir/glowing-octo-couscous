@@ -1,0 +1,1 @@
+I am pretty curious about Rites of passage, and what they mean for people. I have some ideas of some rites of passage that were significant in my own life.
