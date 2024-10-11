@@ -8,3 +8,10 @@ This is for me to remember what stuff I need to do next on this notes section
 	- tagging things\
 	- joining things
 	- removing things possibly
+
+## main site
+- i want some cooler colors, make it a look a bit more snazzy
+
+## subdomain
+i want a subdomain to host some funky shit that doesn't interact with the other two domains code wise. maybe ship.rudrakabir.com?
+

@@ -6,3 +6,7 @@ I condemn manufacturers gluing their products together and using solder to perma
 
 ## Don't Litter
 It almost seems sad that I have to say this, but I live in India and we have a problem with litter. There is a popular movement in Camping and Hiking communities that advocates LNT, or leave no trace. Leave Nothing but footprints, take nothing but memories is a popular saying from this community. In the interests of convenience, a lot of stuff we need is packaged in disposable items that we dispose of IMMEDIATELY as soon as the item is taken, consequences be damned. It sucks to see the most beautiful places in my country be dirtied by the very people that came to admire the beauty. 
+
+## Have the hard conversations
+Avoiding the hard conversations, in any relationship, is a tax on the future health of that relationship. Just starting it is better than not saying anything and waiting for the perfect time. 
+

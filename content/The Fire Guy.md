@@ -9,4 +9,7 @@ This meant I could do one of my favourite things, explore a new identity.
 
 Being around people you already know reinforces your identity. They know you as they do, and you behave as they know you. But your identify is always in flux. You become a new person each day, each minute. Your identity now is a weighted sum of all your identities before. The changes are incremental, but over time they add up. That's what leads to people drifting apart. one day you wake up and realise, Damn, we are so different now. 
 
-New people are an opportunity to test the most updated version of your identity with a weight of one. As someone named Kabir, I am familiar with being called by the names of other Kabirs. Whether th
+New people are an opportunity to test the most updated version of your identity with a weight of one. 
+
+This trip apparently, was the creation of a new mythos: Kabir the fire guy. 
+

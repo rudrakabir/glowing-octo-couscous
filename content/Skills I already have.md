@@ -2,16 +2,18 @@ I am currently brushing up on my WebDev skills building my website, and wrote [[
 
 This isn't just limited to Software, hopefully, so this is a running(incomplete) list of things I can do, so that I know how to progress in the skill tree. 
 
-Electronic Stuff
-	- Software
+## Electronic Stuff
+
+- Software
+		- Programming, Scripting, Automation
+		- Web Development
 		- Command line familiarity
 		- High tech mana
-		- data recovery
-		- proficiency for picking up and finding new apps
+		- Data recovery
+		- Proficiency for picking up and finding new apps
 		- Applescript and Automator
-		- Basic Programming
 		- Excel
-	- Hardware
+- Hardware
 		- Component Assembly(and disassembly(and destruction))
 		- Wiring and Soldering
 		- Batteries/Charging
@@ -21,8 +23,8 @@ Electronic Stuff
 			- i just love batteries
 		- 
 
-Mechanical Stuff
-- Basic Car and Bike fundamentals
+## Mechanical Stuff
+- Basic Car and Motorcyle fundamentals
 	- Working knowledge of component systems, enough to triage and at least temporarily fix most issues
 	- Car Audio
 	- Driving duh
@@ -39,20 +41,25 @@ Mechanical Stuff
 
 
 
-Artsy Stuff
-	- Writing
-	- Making cool stuff w wood/metal/wire
-	- Bushcraft, shelter, weaponry
-	- Hilarious, at times
-	- Good story teller
-	- Good curator for music
-	- great with people, can entertain a crowd
+## Artsy Stuff
+
+- Writing
+- Making cool stuff w wood/metal/wire
+- Bushcraft, shelter, weaponry
+- Hilarious, at times
+- Good story teller
+- Good curator for music
+- great with people, can entertain a crowd
 
 
-Physical Stuff
+## Physical Stuff
 - 100kg deadlift, 50kg benchpress, 30kg OHP, 30kg squat(yea i know i need more leg day, fucked my knees working on that)
 - 5 pullup max, 15 pushup max (working on it)
-- 
-- 
+- Can't run for shit yet
+
+## Soft Skills
+
+- Vibe Reader, Mechanic
+- Good at having hard conversations, great communicator
 
 

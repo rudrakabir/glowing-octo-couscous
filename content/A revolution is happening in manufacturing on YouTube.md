@@ -20,3 +20,5 @@ Outdoor Boyz
 There is something damn appealing about being able to make your own stuff. Whether it's about hitting that personal goldilocks zone, or not having to worry about economies of scale, or just being able to fix something when it breaks instead of having to throw it away, making your own stuff is awesome. The pride of making your own Something and having it fulfil your needs is simply amazing. 
 
 With AI entering the small scale manufacturing space, something that makes manufacturing super democratic and accessible to the consumer, or at least the prosumer, is coming soon, and I fully anticipate it to be amazing.
+
+I also want in. 

@@ -1,3 +1,4 @@
+#howto 
 I am forced to use instagram because their network effects make it so that most of the people I want to talk to are on Instagram as their preferred messaging medium. I kinda hate it because 
 
 A. It makes message archival very difficult
