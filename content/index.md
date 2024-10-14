@@ -11,6 +11,8 @@ Think of it as a lab, or a workshop, where stuff is still happening, and the out
 
 Some whimsical jumping points would be [[Lists]] or [[Books]] or [[Reviews]] 
 
+[[a collection of linky links]]
+
 
 
 
