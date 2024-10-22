@@ -1,0 +1,1 @@
+- asking for llms to be reasoning is already a high bar. my teachers in school couldnt reason, and they were still useful. damn useful. 
