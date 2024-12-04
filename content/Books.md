@@ -12,7 +12,7 @@ When possible, I want to live take certain thoughts or comments when I read book
 
 - [[Zen in the Art of Writing - Ray Bradbury]]
 - [[The man from the Future - Ananya Bhattacharya]]
-
+- [[How to invent everything - ryan north]]
 ## Want to Read 
 
 
