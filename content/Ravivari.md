@@ -7,6 +7,5 @@ Batteries
 - 18650, and charger
 
 - Laptop, USB adapter
-- SAtA cable to test hard drives
+- SATA cable to test hard drives
 - lighter butane to test lighters
-- 
