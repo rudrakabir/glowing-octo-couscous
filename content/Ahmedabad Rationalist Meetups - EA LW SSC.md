@@ -23,3 +23,5 @@ This is a log of those meetup, and my experiences from the beginning of buildgin
 
 
 
+
+es
