@@ -47,3 +47,8 @@ basically:
 1. `created` without frontmatter = filesystem date nonsense
 2. `modified` = git-backed and useful
 3. one word config fix
+
+
+
+Now it works. 
+Yay

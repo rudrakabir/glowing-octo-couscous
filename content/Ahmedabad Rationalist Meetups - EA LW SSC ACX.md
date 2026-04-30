@@ -1,4 +1,8 @@
 
+
+Hey Rats
+
+I run the rationalist meetup group in Ahmedabad that meets up every so often to discuss rationality, EA, LW, ACX related topics, or rather regular topics in a rationality lens. THis is a list of the meetups we've had so far and maybe some musings on how it has taken shape over the years, or maybe some on my personal journey with rationality as well.
 ## Story
 
 I have been interested in this whole sphere for a relatively long portion of my life. I first came across it through HPMOR, totally organically through fanfiction.net(it was one of the longest fanfics there at the time), which I guess changed my worldview in enough points that I eventually came across Scott alexanders writings a few years later, and that really spoke to me in ways. It was as if he was articulating deep insights that I myself insighted too, but putting them in ways I never could. His writing and articulation is something that really spoke to me, and a standard I still aspire to. 
@@ -20,8 +24,3 @@ This is a log of those meetup, and my experiences from the beginning of buildgin
 [[Meetup 1]]
 
 [[Meetup 2]]
-
-
-
-
-es
